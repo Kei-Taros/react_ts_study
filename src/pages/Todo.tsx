@@ -89,7 +89,7 @@ const Todo = () => {
           ))}
         </ul>
         <nav>
-          <Link to="/">Home</Link>
+          <Link to="/">Back to Home</Link>
         </nav>
       </div>
     </div>
