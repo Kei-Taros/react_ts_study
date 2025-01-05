@@ -23,3 +23,7 @@
 .inputCheck {
   margin: 15px;
 }
+
+.menu {
+  display: flex;
+}
